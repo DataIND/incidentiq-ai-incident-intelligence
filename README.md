@@ -450,14 +450,19 @@ Detailed project documentation will be maintained under `docs/`.
 
 ## License
 
-MIT License — see [LICENSE](LICENSE).
+Choose a license before publishing this repository. If you intend to make the project open source, add a LICENSE file containing the license you select.
 
----
 
-## Disclaimer
+## Author
 
-IncidentIQ is an engineering and learning project.
+Akash Jadhav
 
-AI-generated root cause analysis and remediation recommendations are decision-support outputs. They should not be treated as verified diagnoses or executed against production infrastructure without appropriate engineering review and authorization.
+Senior Python Backend Engineer | GenAI & RAG | FastAPI | LLM Applications | System Design
+
+GitHub: https://github.com/DataIND
+
+LinkedIn: https://www.linkedin.com/in/akash-jadhav-087666b6/
+
+
 ```
 
